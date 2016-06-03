@@ -1,0 +1,10 @@
+*.root
+*~
+.*
+!.gitignore
+dump.txt
+__*
+*.pyc
+\#*
+*.sh
+*.log
